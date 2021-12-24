@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Sample {
+public class Sample1 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
